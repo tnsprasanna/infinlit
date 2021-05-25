@@ -1,0 +1,28 @@
+/* styling */
+
+body {
+  background: #DOD9B3;
+  background-color: #B3C4A7;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-weight: bolder;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: purple;
+  font-size: 16px;
+}
+
+.button-container {
+  margin: auto;
+  width: 50%;
+  border: 5px darkgreen;
+  padding: 10px;
+  background: white;
+}
